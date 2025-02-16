@@ -18,8 +18,15 @@ Human language expresses a wide range of emotions, and detecting sentiment in on
 - **Real-Time Feedback:** Provides personalized feedback to users based on detected sentiment.
 - **Context Awareness:** Understands the tone and context of comments.
 
+## How to Install Extension
+1. Go to Extension page on your browser.
+2. Make sure developer mode is turned on
+3. Click **Load Unpacked** from the sidebar
+4. Select the **SentimentExtension** folder
+5. Click **Load** and it will be installed on your browswer successfully.
+
 ## How to Use
-1. Install the extension from the Chrome Web Store.
+1. Install the extension.
 2. Highlight a comment on any website.
 3. Right-click and select **'Analyze Sentiment'**.
 4. View the sentiment analysis result and suggested feedback.
