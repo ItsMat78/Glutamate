@@ -47,8 +47,7 @@ Human language expresses a wide range of emotions, and detecting sentiment in on
 
 ## Contributors
 - **Shreyash Rai** (Team Lead)
-- **Anirudh Pandey**
-- **Shourya Vaidhya Jain**
+- **Shourya Vaidhya Jain(Developer)**
 
 ## Conclusion
 **Glutamate** enhances sentiment analysis for online comments, helping users gain insights into emotional tone and improve engagement. Future iterations will focus on more advanced AI techniques and a broader dataset to improve accuracy and context understanding.
